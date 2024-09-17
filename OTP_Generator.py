@@ -2,7 +2,7 @@
     Program Name = OTP generator.
     Programming Language = Python
     Guided By = Amol Bhavsar Sir
-    Developer Name = Shelake Kalyani Rajendra
+    Developer Name = Shelke Aditya Rajendra
     Date = 04-08-2022
 '''
 
