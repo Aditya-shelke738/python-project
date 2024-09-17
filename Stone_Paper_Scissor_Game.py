@@ -2,7 +2,7 @@
     Program Name = Stone-Paper-Scissor Game.
     Programming Language = Python
     Guided By = Amol Bhavsar Sir
-    Developer Name = Shelake Kalyani Rajendra
+    Developer Name = Shelke Aditya Rajendra
     Date = 09-08-2022
 '''
 
